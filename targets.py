@@ -5,26 +5,6 @@ Created on Thu Feb 13 17:20:00 2020
 @author: R00t_5layer
 """
 
-def sawer() :
-    import os
-    
-    os.system("cls")
-    
-    
-    
-    print("  _____                    _       ")
-    print(" |_   _|                  | |      ")
-    print("   | | __ _ _ __ __ _  ___| |_ ___ ")
-    print("   | |/ _` | '__/ _` |/ _ \ __/ __|")
-    print("   | | (_| | | | (_| |  __/ |_\__ \.")
-    print("   \_/\__,_|_|  \__, |\___|\__|___/")
-    print("                 __/ |             ")
-    print("                |___/              ")
-    
-
-
-
-
 
 #--->
 
