@@ -14,3 +14,6 @@ print('                                  |  | ((_(_)| )_)"')
 print('                                  |  \_((_(_)|/(_)"')
 print('                                  \             ("')
 print('                                   \_____________)"')
+
+def primerCambio():
+    print("Primer cambio!")

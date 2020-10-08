@@ -5,7 +5,8 @@ Created on Thu Feb 13 17:20:00 2020
 @author: R00t_5layer
 """
 
-
+def seconfChange():
+    print("Segundo cambio hecho!")
 #--->
 
 targets = []
